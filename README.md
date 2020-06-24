@@ -1,6 +1,6 @@
 # neumorphic_design
 
-A new Flutter project.
+This is the neumorphic design of room controlling temperature which is created from flutter framework.
 
 ## Getting Started
 
