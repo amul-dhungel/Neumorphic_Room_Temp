@@ -2,6 +2,9 @@
 
 This is the neumorphic design of room controlling temperature which is created from flutter framework.
 
+<img src="Screenshots/1.PNG">
+<img src="Screenshots/2.PNG">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
